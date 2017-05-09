@@ -1,0 +1,9 @@
+name: IF702-redes-neurais
+dependencies:
+- python=3.5
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- tensorflow
+- keras
