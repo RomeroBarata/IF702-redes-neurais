@@ -19,3 +19,6 @@ Inicie uma instância de um notebook jupyter:
 E após finalizar a utilização do ambiente o desative com:
 
 > source deactivate
+
+## Dúvidas
+Qualquer dúvida é só me contactar por e-mail (rfabm@cin.ufpe.br) ou abrir uma issue aqui.
