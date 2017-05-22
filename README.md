@@ -1,7 +1,7 @@
-## IF702 Redes Neurais
+# IF702 Redes Neurais
 Script base para o projeto da disciplina IF702 Redes Neurais.
 
-# Instruções
+## Instruções
 Recomenda-se instalar `Python` utilizando a distribuição [Anaconda](https://conda.io/docs/download.html).
 
 Após a instalação, mova para este diretório e execute o comando:
