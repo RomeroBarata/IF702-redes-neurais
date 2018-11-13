@@ -12,6 +12,10 @@ Em seguida, ative o ambiente criado com o comando:
 
 > source activate IF702-redes-neurais
 
+Instale a biblioteca scikit-plot, pois ela não vem nos pacotes padrões do Anaconda:
+
+> conda install -c conda-forge scikit-plot
+
 Inicie uma instância de um notebook jupyter:
 
 > jupyter notebook
